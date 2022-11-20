@@ -10,6 +10,6 @@ Installation:
 2) cd Domain_Enumeration
 3) python3 Dom_Enum.py "wordlist" "target website"
 
-INPUT:
+Input:
 
 python3 Dom_Enum.py /usr/share/wordlists/wordlist.txt google.com
