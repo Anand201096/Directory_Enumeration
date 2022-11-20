@@ -2,7 +2,7 @@
 
 Summary:
 
-A python file used to find out all other domains related a specific website(s).
+A python file used to find out all directories related a specific website(s).
 
 Installation:
 
